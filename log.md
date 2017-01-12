@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: January 9, 2016 
+### Day 0: January 9, 2017
 
 
 **Today's Progress**: Working on building Timestamp API project.
@@ -12,7 +12,7 @@
 [Github Repo](https://www.github.com/yamilethmedina/timestamp)
 [Deployed project](http://fcc-unix-timestamp.herokuapp.com)
 
-### Day 1: January 10, 2016 
+### Day 1: January 10, 2017
 
 
 **Today's Progress**: Work on Kimball/Miami CUT Group Project
@@ -22,7 +22,7 @@
 **Link to work:** 
 [Github Repo](https://www.github.com/yamilethmedina/kimball)
 
-### Day 2: January 11, 2016 
+### Day 2: January 11, 2017
 ##### (delete me or comment me out)
 
 **Today's Progress**: First 7 steps of Learnyounode
@@ -32,3 +32,12 @@
 **Link to work:** 
 [Free Code Camp](https://www.freecodecamp.com/challenges/start-a-nodejs-server)
 
+### Day 3: January 12, 2017
+##### (delete me or comment me out)
+
+**Today's Progress**: Step 8 of Learnyounode
+
+**Thoughts:** Cloud9 was having problems loading the suggested npm modules, so I had to do it the vanilla way. Wanted to get more done but ran out of time. 
+
+**Link to work:** 
+[Free Code Camp](https://www.freecodecamp.com/challenges/continue-working-with-nodejs-servers)
