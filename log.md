@@ -23,7 +23,7 @@
 [Github Repo](https://www.github.com/yamilethmedina/kimball)
 
 ### Day 2: January 11, 2017
-##### (delete me or comment me out)
+
 
 **Today's Progress**: First 7 steps of Learnyounode
 
@@ -33,7 +33,7 @@
 [Free Code Camp](https://www.freecodecamp.com/challenges/start-a-nodejs-server)
 
 ### Day 3: January 12, 2017
-##### (delete me or comment me out)
+
 
 **Today's Progress**: Step 8 of Learnyounode
 
@@ -41,3 +41,13 @@
 
 **Link to work:** 
 [Free Code Camp](https://www.freecodecamp.com/challenges/continue-working-with-nodejs-servers)
+
+### Day 4: January 13, 2017
+
+
+**Today's Progress**: Steps 8 and 9 of Learnyounode
+
+**Thoughts:** Had to do the Juggling Async challenge without the suggested module because of Cloud 9's issues. I was having trouble with an `undefined` showing up before each line in the console, but it turns out I was using `urlArguments` as a condition in a for loop instead of `urlArguments.length`.
+**Link to work:** 
+[Free Code Camp](https://www.freecodecamp.com/challenges/continue-working-with-nodejs-servers)
+[Free Code Camp](https://www.freecodecamp.com/challenges/finish-working-with-nodejs-servers)
