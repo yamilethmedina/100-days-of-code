@@ -51,3 +51,12 @@
 **Link to work:** 
 [Free Code Camp](https://www.freecodecamp.com/challenges/continue-working-with-nodejs-servers)
 [Free Code Camp](https://www.freecodecamp.com/challenges/finish-working-with-nodejs-servers)
+
+### Day 5: January 14, 2017
+
+
+**Today's Progress**: Steps 12 and 13 of Learnyounode
+
+**Thoughts:** I was tired after a long day but wanted to keep my streak going! At first, I installed the module requested in Lesson 12 by copying it from the `learnyounode` folder and continuing to do so for every single one of its dependencies, which was a pain (for some reason c9 still has problems with npm despite my not having any internet access problems). Turns out I didn't need the module mentioned in the hint, but what the heck. I kept Googling various type errors and ended up with an undefined string because I made a typo and wrote `.toString` instead of .toString()`, which obviously did nothing. But yay, this part is complete!
+**Link to work:** 
+[Free Code Camp](https://www.freecodecamp.com/challenges/finish-working-with-nodejs-servers)
