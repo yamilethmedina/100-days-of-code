@@ -60,3 +60,12 @@
 **Thoughts:** I was tired after a long day but wanted to keep my streak going! At first, I installed the module requested in Lesson 12 by copying it from the `learnyounode` folder and continuing to do so for every single one of its dependencies, which was a pain (for some reason c9 still has problems with npm despite my not having any internet access problems). Turns out I didn't need the module mentioned in the hint, but what the heck. I kept Googling various type errors and ended up with an undefined string because I made a typo and wrote `.toString` instead of .toString()`, which obviously did nothing. But yay, this part is complete!
 **Link to work:** 
 [Free Code Camp](https://www.freecodecamp.com/challenges/finish-working-with-nodejs-servers)
+
+### Day 6: January 15, 2017
+
+
+**Today's Progress**: Big O Chapter of Cracking the Coding Interview (Up to first 5 additional questions)
+
+**Thoughts:** I was unable to get to my computer for most of the day, but I brought my book with me to study algorithms. We covered them a bit in my CS50 course, but recent experience has known that I clearly need a refresher! It was a bit of a struggle, especially since with the particular web projects I work on, algorithms aren't really front of mind. However, this chapter is definitely helping me focus on the difference between `O(log n)` (typically found with binary search-like algorithms, for example), `O(n)` (when a loop within the function iterates `n` number of times) and `O(1)` (constant time). I want to be able to solve them myself without looking back in the chapter for previous similar examples, but that will probably take more experience and time.
+**Link to work:** 
+[Cracking the Coding Interview](http://www.crackingthecodinginterviewcom)
