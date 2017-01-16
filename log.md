@@ -68,4 +68,4 @@
 
 **Thoughts:** I was unable to get to my computer for most of the day, but I brought my book with me to study algorithms. We covered them a bit in my CS50 course, but recent experience has known that I clearly need a refresher! It was a bit of a struggle, especially since with the particular web projects I work on, algorithms aren't really front of mind. However, this chapter is definitely helping me focus on the difference between `O(log n)` (typically found with binary search-like algorithms, for example), `O(n)` (when a loop within the function iterates `n` number of times) and `O(1)` (constant time). I want to be able to solve them myself without looking back in the chapter for previous similar examples, but that will probably take more experience and time.
 **Link to work:** 
-[Cracking the Coding Interview](http://www.crackingthecodinginterviewcom)
+[Cracking the Coding Interview](http://www.crackingthecodinginterview.com)
