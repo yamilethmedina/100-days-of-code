@@ -78,3 +78,13 @@
 **Thoughts:** While i've worked somewhat extensively with Express before, I was using a lot of boilerplate and largely going through the motions on the actual server building. This helped me dig into Express and the middleware more deeply!
 **Link to work:** 
 [Free Code Camp](https://www.freecodecamp.com/challenges/build-web-apps-with-expressjs)
+
+### Day 8: January 17, 2017
+
+
+**Today's Progress**: Git-It
+
+**Thoughts:** I needed to do a quick refresher on pull requests and merges because I haven't done a lot of team projects/work in awhile. This was perfect!
+**Link to work:** 
+[Free Code Camp](https://www.freecodecamp.com/challenges/save-your-code-revisions-forever-with-git)
+[Patchwork](https://yamilethmedina.github.io/patchwork)
