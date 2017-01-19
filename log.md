@@ -88,3 +88,12 @@
 **Link to work:** 
 [Free Code Camp](https://www.freecodecamp.com/challenges/save-your-code-revisions-forever-with-git)
 [Patchwork](https://yamilethmedina.github.io/patchwork)
+
+### Day 9: January 19, 2017
+
+
+**Today's Progress**: First 6 steps of Learnyoumongo
+
+**Thoughts:** I worked a lot and was sick, so by the time I got home I was really tired. I did continue reading Cracking the Coding Interview, but didn't have a lot of time to actually get to work. However, i'm back at it (tacking a day on to the end) and working on honing my MongoDB skills. I've worked with projects that use it, but haven't done as much with it myself as I have with SQL-based relational databases. I know the MEAN stack is really important, so this is valuable. I had to use some `chown` commands to make sure I didn't have to run it in `sudo` mode all the time, and there was a funny bit where nothing I seemed to do was working, and the error was occurring because I was editing a file in the wrong folder. Good times :)
+**Link to work:** 
+[Free Code Camp](https://www.freecodecamp.com/challenges/store-data-in-mongodb)
