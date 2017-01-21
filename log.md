@@ -97,3 +97,11 @@
 **Thoughts:** I worked a lot and was sick, so by the time I got home I was really tired. I did continue reading Cracking the Coding Interview, but didn't have a lot of time to actually get to work. However, i'm back at it (tacking a day on to the end) and working on honing my MongoDB skills. I've worked with projects that use it, but haven't done as much with it myself as I have with SQL-based relational databases. I know the MEAN stack is really important, so this is valuable. I had to use some `chown` commands to make sure I didn't have to run it in `sudo` mode all the time, and there was a funny bit where nothing I seemed to do was working, and the error was occurring because I was editing a file in the wrong folder. Good times :)
 **Link to work:** 
 [Free Code Camp](https://www.freecodecamp.com/challenges/store-data-in-mongodb)
+
+### Day 10: January 20, 2017
+
+
+**Today's Progress**: Finished Learnyoumongo
+**Thoughts:** I was busy bogged down with work and training, but I still made it a point to get my time in! MongoDB was actually easier to work with today, although I had trouble with the final Aggregate challenge, because I didn't know how to force it to show the required number of decimal places. I had to look up the official solution, which still doesn't make sense to me (where does `var o = results[0]` come from?), but here I am.
+**Link to work:** 
+[Free Code Camp](https://www.freecodecamp.com/challenges/store-data-in-mongodb)
