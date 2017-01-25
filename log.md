@@ -105,3 +105,29 @@
 **Thoughts:** I was busy bogged down with work and training, but I still made it a point to get my time in! MongoDB was actually easier to work with today, although I had trouble with the final Aggregate challenge, because I didn't know how to force it to show the required number of decimal places. I had to look up the official solution, which still doesn't make sense to me (where does `var o = results[0]` come from?), but here I am.
 **Link to work:** 
 [Free Code Camp](https://www.freecodecamp.com/challenges/store-data-in-mongodb)
+
+### Day 11: January 22, 2017
+**Today's Progress**: Work on Kimball/Miami CUT Group Project
+
+**Thoughts:** I made some progress printing out the array of data in the console, but am having trouble iterating over it in the view because the `id` field is actually in a separate part of the API's output. I'm considering moving on to another part of the project and focusing more on the endpoints instead of the import.
+
+**Link to work:** 
+[Github Repo](https://www.github.com/yamilethmedina/kimball)
+
+### Day 12: January 23, 2017
+
+
+**Today's Progress**: Code For Miami
+**Thoughts:** Getting used to my part-time job was exhausting, but I made it a point to get to the weekly civic hack night. We focused on streamlining project selection for new members and marking which projects are inactive and which are actively looking for contributors.
+**Link to work:** 
+[Code For Miami](https://codefor.miami)
+
+### Day 13: January 24, 2017
+
+
+**Today's Progress**: Request Header Parser Project
+**Thoughts:** It was actually pretty easy for the most part! I just had to remember to `split` the language and software outputs I recieved from the browser, and it turns out that the `os` module doesn't quite do what I needed (for example, it gives `Darwin` instead of `Macintosh`), so I needed to go into the header's user agent to find that. There was also an issue with Heroku not being able to verify the language with a buildpack, but I got through it easily. Vital tip: your application may work even if you don't formally run `npm init`, but it's essential for deployment! (What can I say, it was late.) Also, upon further review, it seems like `req.headers['x-forwarded-for']` may be a better choice than `req.ip`, because the latter adds some random characters (a bunch of `f`s) before the IP address.
+**Link to work:** 
+[Free Code Camp Challenge](https://www.freecodecamp.com/challenges/request-header-parser-microservice)
+[Github Repo](https://www.github.com/yamilethmedina/request-header-parser)
+[Heroku App](https://sleepy-falls-18578.herokuapp.com/)
