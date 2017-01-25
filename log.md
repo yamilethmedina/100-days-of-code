@@ -131,3 +131,11 @@
 [Free Code Camp Challenge](https://www.freecodecamp.com/challenges/request-header-parser-microservice)
 [Github Repo](https://www.github.com/yamilethmedina/request-header-parser)
 [Heroku App](https://sleepy-falls-18578.herokuapp.com/)
+
+### Day 14: January 25, 2017
+**Today's Progress**: URL Shortener Microservice Project
+**Thoughts:** It was working until I started trying to save dummy data into MongoDB, and then localhost suddenly stopped responding. It was showing the URL on the browser and then suddenly it stopped, even when I commented out my latest additions to the code and went back to when it definitely worked. Might take a reboot to fix...
+**Link to work:** 
+[Free Code Camp Challenge](https://www.freecodecamp.com/challenges/url-shortener-microservice)
+[Github Repo](https://www.github.com/yamilethmedina/url-shortener)
+[Heroku App](https://gentle-coast-31687.herokuapp.com/)
