@@ -171,3 +171,16 @@
 **Link to work:** 
 
 [Code for Miami Github Organization](https://www.github.com/Code-for-Miami)
+
+### Day 16: January 27, 2017
+**Today's Progress**: URL Shortener Microservice Project
+
+**Thoughts:** Turns out it was a minor syntax error - ESHint is a big help with that! However, now it's not retrieving saved URLs and shortcodes that I know for a fact are in the database -- why is `doc` (as in `function (err, doc) { if (doc != null) { res.redirect(doc.url);` appearing as null? :thinking: 
+
+**Link to work:** 
+
+[Free Code Camp Challenge](https://www.freecodecamp.com/challenges/url-shortener-microservice)
+
+[Github Repo](https://www.github.com/yamilethmedina/url-shortener)
+
+[Heroku App](https://gentle-coast-31687.herokuapp.com/)
