@@ -9,7 +9,9 @@
 
 **Link to work:** 
 [Free Code Camp Challenge](https://www.freecodecamp.com/challenges/timestamp-microservice)
+
 [Github Repo](https://www.github.com/yamilethmedina/timestamp)
+
 [Deployed project](http://fcc-unix-timestamp.herokuapp.com)
 
 ### Day 1: January 10, 2017
@@ -48,8 +50,10 @@
 **Today's Progress**: Steps 8 and 9 of Learnyounode
 
 **Thoughts:** Had to do the Juggling Async challenge without the suggested module because of Cloud 9's issues. I was having trouble with an `undefined` showing up before each line in the console, but it turns out I was using `urlArguments` as a condition in a for loop instead of `urlArguments.length`.
+
 **Link to work:** 
 [Free Code Camp](https://www.freecodecamp.com/challenges/continue-working-with-nodejs-servers)
+
 [Free Code Camp](https://www.freecodecamp.com/challenges/finish-working-with-nodejs-servers)
 
 ### Day 5: January 14, 2017
@@ -57,7 +61,8 @@
 
 **Today's Progress**: Steps 12 and 13 of Learnyounode
 
-**Thoughts:** I was tired after a long day but wanted to keep my streak going! At first, I installed the module requested in Lesson 12 by copying it from the `learnyounode` folder and continuing to do so for every single one of its dependencies, which was a pain (for some reason c9 still has problems with npm despite my not having any internet access problems). Turns out I didn't need the module mentioned in the hint, but what the heck. I kept Googling various type errors and ended up with an undefined string because I made a typo and wrote `.toString` instead of .toString()`, which obviously did nothing. But yay, this part is complete!
+**Thoughts:** I was tired after a long day but wanted to keep my streak going! At first, I installed the module requested in Lesson 12 by copying it from the `learnyounode` folder and continuing to do so for every single one of its dependencies, which was a pain (for some reason c9 still has problems with npm despite my not having any internet access problems). Turns out I didn't need the module mentioned in the hint, but what the heck. I kept Googling various type errors and ended up with an undefined string because I made a typo and wrote `.toString` instead of `.toString()`, which obviously did nothing. But yay, this part is complete!
+
 **Link to work:** 
 [Free Code Camp](https://www.freecodecamp.com/challenges/finish-working-with-nodejs-servers)
 
@@ -67,6 +72,7 @@
 **Today's Progress**: Big O Chapter of Cracking the Coding Interview (Up to first 5 additional questions)
 
 **Thoughts:** I was unable to get to my computer for most of the day, but I brought my book with me to study algorithms. We covered them a bit in my CS50 course, but recent experience has known that I clearly need a refresher! It was a bit of a struggle, especially since with the particular web projects I work on, algorithms aren't really front of mind. However, this chapter is definitely helping me focus on the difference between `O(log n)` (typically found with binary search-like algorithms, for example), `O(n)` (when a loop within the function iterates `n` number of times) and `O(1)` (constant time). I want to be able to solve them myself without looking back in the chapter for previous similar examples, but that will probably take more experience and time.
+
 **Link to work:** 
 [Cracking the Coding Interview](http://www.crackingthecodinginterview.com)
 
@@ -76,6 +82,7 @@
 **Today's Progress**: Expressworks 
 
 **Thoughts:** While i've worked somewhat extensively with Express before, I was using a lot of boilerplate and largely going through the motions on the actual server building. This helped me dig into Express and the middleware more deeply!
+
 **Link to work:** 
 [Free Code Camp](https://www.freecodecamp.com/challenges/build-web-apps-with-expressjs)
 
@@ -85,8 +92,10 @@
 **Today's Progress**: Git-It
 
 **Thoughts:** I needed to do a quick refresher on pull requests and merges because I haven't done a lot of team projects/work in awhile. This was perfect!
+
 **Link to work:** 
 [Free Code Camp](https://www.freecodecamp.com/challenges/save-your-code-revisions-forever-with-git)
+
 [Patchwork](https://yamilethmedina.github.io/patchwork)
 
 ### Day 9: January 19, 2017
@@ -95,6 +104,7 @@
 **Today's Progress**: First 6 steps of Learnyoumongo
 
 **Thoughts:** I worked a lot and was sick, so by the time I got home I was really tired. I did continue reading Cracking the Coding Interview, but didn't have a lot of time to actually get to work. However, i'm back at it (tacking a day on to the end) and working on honing my MongoDB skills. I've worked with projects that use it, but haven't done as much with it myself as I have with SQL-based relational databases. I know the MEAN stack is really important, so this is valuable. I had to use some `chown` commands to make sure I didn't have to run it in `sudo` mode all the time, and there was a funny bit where nothing I seemed to do was working, and the error was occurring because I was editing a file in the wrong folder. Good times :)
+
 **Link to work:** 
 [Free Code Camp](https://www.freecodecamp.com/challenges/store-data-in-mongodb)
 
@@ -103,6 +113,7 @@
 
 **Today's Progress**: Finished Learnyoumongo
 **Thoughts:** I was busy bogged down with work and training, but I still made it a point to get my time in! MongoDB was actually easier to work with today, although I had trouble with the final Aggregate challenge, because I didn't know how to force it to show the required number of decimal places. I had to look up the official solution, which still doesn't make sense to me (where does `var o = results[0]` come from?), but here I am.
+
 **Link to work:** 
 [Free Code Camp](https://www.freecodecamp.com/challenges/store-data-in-mongodb)
 
@@ -118,7 +129,9 @@
 
 
 **Today's Progress**: Code For Miami
+
 **Thoughts:** Getting used to my part-time job was exhausting, but I made it a point to get to the weekly civic hack night. We focused on streamlining project selection for new members and marking which projects are inactive and which are actively looking for contributors.
+
 **Link to work:** 
 [Code For Miami](https://codefor.miami)
 
@@ -126,16 +139,35 @@
 
 
 **Today's Progress**: Request Header Parser Project
+
 **Thoughts:** It was actually pretty easy for the most part! I just had to remember to `split` the language and software outputs I recieved from the browser, and it turns out that the `os` module doesn't quite do what I needed (for example, it gives `Darwin` instead of `Macintosh`), so I needed to go into the header's user agent to find that. There was also an issue with Heroku not being able to verify the language with a buildpack, but I got through it easily. Vital tip: your application may work even if you don't formally run `npm init`, but it's essential for deployment! (What can I say, it was late.) Also, upon further review, it seems like `req.headers['x-forwarded-for']` may be a better choice than `req.ip`, because the latter adds some random characters (a bunch of `f`s) before the IP address.
+
 **Link to work:** 
+
 [Free Code Camp Challenge](https://www.freecodecamp.com/challenges/request-header-parser-microservice)
+
 [Github Repo](https://www.github.com/yamilethmedina/request-header-parser)
+
 [Heroku App](https://sleepy-falls-18578.herokuapp.com/)
 
 ### Day 14: January 25, 2017
 **Today's Progress**: URL Shortener Microservice Project
+
 **Thoughts:** It was working until I started trying to save dummy data into MongoDB, and then localhost suddenly stopped responding. It was showing the URL on the browser and then suddenly it stopped, even when I commented out my latest additions to the code and went back to when it definitely worked. Might take a reboot to fix...
+
 **Link to work:** 
+
 [Free Code Camp Challenge](https://www.freecodecamp.com/challenges/url-shortener-microservice)
+
 [Github Repo](https://www.github.com/yamilethmedina/url-shortener)
+
 [Heroku App](https://gentle-coast-31687.herokuapp.com/)
+
+### Day 15: January 26, 2017
+**Today's Progress**: Organizing Code for Miami projects
+
+**Thoughts:** Still code-adjacent so I count it; going through all of the projects on the Code for Miami GitHub organization and checking to see which repos are active, which are live but unmaintained, which are under construction, and which are inactive. This will make it far easier for everyone to decide what to work on in the future!
+
+**Link to work:** 
+
+[Code for Miami Github Organization](https://www.github.com/Code-for-Miami)
