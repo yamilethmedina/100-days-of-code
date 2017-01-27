@@ -176,6 +176,7 @@
 **Today's Progress**: URL Shortener Microservice Project
 
 **Thoughts:** Turns out it was a minor syntax error - ESHint is a big help with that! However, now it's not retrieving saved URLs and shortcodes that I know for a fact are in the database -- why is `doc` (as in `function (err, doc) { if (doc != null) { res.redirect(doc.url);` appearing as null? :thinking: 
+*Update:* It works on my localhost now! Remember to make sure that the `/:route` and `params` are the same name!
 
 **Link to work:** 
 
