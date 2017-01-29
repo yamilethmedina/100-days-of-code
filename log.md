@@ -185,3 +185,16 @@
 [Github Repo](https://www.github.com/yamilethmedina/url-shortener)
 
 [Heroku App](https://gentle-coast-31687.herokuapp.com/)
+
+### Day 17: January 28, 2017
+**Today's Progress**: URL Shortener Microservice Project
+
+**Thoughts:** It's finally done! My first time setting up mLab on Heroku. This turned out to be pretty fun in the end.
+
+**Link to work:** 
+
+[Free Code Camp Challenge](https://www.freecodecamp.com/challenges/url-shortener-microservice)
+
+[Github Repo](https://www.github.com/yamilethmedina/url-shortener)
+
+[Heroku App](https://gentle-coast-31687.herokuapp.com/)
