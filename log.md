@@ -198,3 +198,32 @@
 [Github Repo](https://www.github.com/yamilethmedina/url-shortener)
 
 [Heroku App](https://gentle-coast-31687.herokuapp.com/)
+
+### Day 18: January 30, 2017
+
+
+**Today's Progress**: Work on Kimball/Miami CUT Group Project
+
+**Thoughts:** I'm back on track with a new plan to create route for a Typeform webhook to receive JSON POST requests and add new users to the application's database.
+
+**Link to work:** 
+[Github Repo](https://www.github.com/yamilethmedina/kimball)
+
+### Day 19: January 31, 2017
+
+
+**Today's Progress**: Work on Kimball/Miami CUT Group Project
+
+**Thoughts:** My webhook endpoint is giving the desired 200 status update when testing. Still figuring out how to deal with the 401 unauthorized error when trying to save to the database, since the application is password protected. I need to think about this most recent error log:
+
+```{
+  "token": "eebab08fff87e3c95487c7c17fdb9385",
+  "status": 404,
+  "body": "<!DOCTYPE html>\n<html>\n<head>\n  <title>The page you were looking for doesn't exist (404)</title>\n  <style>\n    body { background-color: #fff; color: #666; text-align: center; font-family: arial, sans-serif; }\n    div.dialog {\n      width: 25em;\n      padding: 0 4em;\n      margin: 4em auto 0 auto;\n      border: 1px solid #ccc;\n      border-right-color: #999;\n      border-bottom-color: #999;\n    }\n    h1 { font-size: 100%; color: #f00; line-height: 1.5em; }\n  </style>\n</head>\n\n<body>\n  <!-- This file lives in public/404.html -->\n  <div class=\"dialog\">\n    <h1>The page you were looking for doesn't exist.</h1>\n    <p>You may have mistyped the address or the page may have moved.</p>\n  </div>\n  <p>If you are the application owner check the logs for more information.</p>\n</body>\n</html>\n",
+  "sent_at": "2017-01-31T20:25:18.751962Z"
+}```
+
+**Link to work:** 
+[Github Repo](https://www.github.com/yamilethmedina/kimball)
+
+
