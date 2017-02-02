@@ -226,4 +226,13 @@
 **Link to work:** 
 [Github Repo](https://www.github.com/yamilethmedina/kimball)
 
+### Day 20: February 2, 2017
+
+
+**Today's Progress**: Work on Kimball/Miami CUT Group Project
+
+**Thoughts:** The 401 error on the webhook is solved, thanks to a Stack Overflow Q. :smile: I ended up getting a 500 `NameError (uninitialized constant WebhooksController::Webhook):` on line 12 of my controller because a Webhook model didn't exist (a friend helped me figure out that error). Although I just added an (empty) webhook model and i'm still getting the same error...
+
+**Link to work:** 
+[Github Repo](https://www.github.com/yamilethmedina/kimball)
 
