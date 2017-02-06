@@ -236,3 +236,12 @@
 **Link to work:** 
 [Github Repo](https://www.github.com/yamilethmedina/kimball)
 
+### Day 21: February 4, 2017
+
+
+**Today's Progress**: ABA JusticeHack
+
+**Thoughts:** My team won second place on our project! It wasn't a typical hackathon and we had to pivot in terms of ideas, but we did end up with an API, a splash page, and mockups. I used a Photoshop template to superimpose an iPhone app on someone's phone - learned something new. :)
+**Link to work:** 
+[Blue Cap](https://www.github.com/yamilethmedina/kimball)
+
